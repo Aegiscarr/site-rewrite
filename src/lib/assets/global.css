@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital@0;1&family=Oxygen&display=swap');
+
+
+* {
+    background-color: #191919;
+    margin: 0px
+  }
+
+.noscroll {
+    position: fixed!important
+}
